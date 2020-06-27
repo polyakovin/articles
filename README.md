@@ -31,6 +31,6 @@
 - [Обзоры на книги](https://github.com/polyakovin/articles/tree/master/books)
 
 
-## Дополнительные источники)
+## Дополнительные источники
 
 - [Подборка __шикарных__ источников информации](https://github.com/sindresorhus/awesome)
