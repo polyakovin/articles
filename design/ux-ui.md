@@ -53,6 +53,8 @@ uxm - user experience map - карта как пользователь реша�
 - https://www.youtube.com/playlist?list=PLLkvpHo_HuBMU_fM4v-VS5VbUi9QuKyDR
 - https://www.youtube.com/playlist?list=PLLkvpHo_HuBPmL0SFkxBAEaV7pvL9mMth
 - [A. Wathan, S. Schoger «Refactoring UI»](https://refactoringui.com/)
+- https://t.me/dangry
+  - https://dangry.ru/sona/
 - Патрик Макнейл — Веб-дизайн. Идеи. Секреты. Советы. Самые актуальные темы, тенденции и стили
 - [Памятка UX / UI дизайнеру. 19 принципов построения интерфейсов](https://habr.com/ru/company/secl_group/blog/182208/)
 - Как стать UX специалистом

@@ -317,3 +317,7 @@
 - Бесплатные шрифты -https://www.fontsquirrel.com
 - Огромная библиотека шрифтов (платные лицензии) - https://www.myfonts.com/
 - Плагин для Chrome чтобы распознать шрифт на сайте - https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm/related?hl=ru
+- http://maximilyahov.ru/hello/
+- http://maximilyahov.ru/blog/all/hygiene/
+- https://bureau.ru/educenter/text/
+- https://book.glvrd.ru/
